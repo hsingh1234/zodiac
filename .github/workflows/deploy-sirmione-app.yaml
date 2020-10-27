@@ -3,7 +3,7 @@
 # to change the name of the resource edit the ALIAS below
 
 #on:
-#  push:
+#  push: 
 #    paths:
 #    - sirmione-web/Application/Sirmione.Web/**
 
