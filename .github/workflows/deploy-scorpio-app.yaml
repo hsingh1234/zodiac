@@ -4,7 +4,7 @@ env:
   SCORPIO_ALIAS: zaxscorpio
 #on:
 #  push:
-#    paths:
+#    paths: 
 #    - scorpio-api/Application/**
 
 on: [workflow_dispatch]
