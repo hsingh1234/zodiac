@@ -3,7 +3,7 @@ env:
    DEFAULT_LOCATION: northeurope
    VIRGO_ALIAS: zaxvirgo
 #on:
-#  push:
+#  push: 
 #    paths:
 #    - LibraQueueHandler/LibraQueueHandler/**
 
