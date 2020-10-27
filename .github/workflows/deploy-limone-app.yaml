@@ -1,6 +1,6 @@
 name: Deploy Limone App
 
-#on:
+#on: 
 #  push:
 #    paths:
 #    - limone-api/Application/**
